@@ -1,0 +1,202 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Beginners guide to learning programming",
+      "userImage": "https://randomuser.me/img/creator_arron.png",
+      "userName": "arshia mansury",
+      "specific": "how to get better and start the programming...",
+      "like": 5,
+      "comment": 0,
+      "saved": 0,
+      "time": 6,
+      "date": "Thu Nov 21 2024",
+      "paragraphs": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero dolor tempora veniam perspiciatis possimus, laborum at, explicabo porro quam aut nostrum. Quod quos vitae quaerat non beatae sapiente culpa numquam? Culpa cum, dolor accusantium sed nostrum beatae, repellendus totam iusto quisquam facere eos facilis, libero distinctio. Incidunt et vel nam. Molestias doloribus exercitationem ad itaque placeat impedit id perspiciatis explicabo.Non culpa aperiam quia ducimus recusandae reprehenderit, nulla placeat iure minima error nobis adipisci cumque et praesentium, officia illum quo veniam minus voluptatum. Provident molestiae facere, expedita illum sunt similique.",
+      "comments": [
+        {
+          "text": "that was so good"
+        },
+        {
+          "text": "i love it"
+        },
+        {
+          "text": "hello"
+        },
+        {
+          "text": "good bye"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Beginners guide to learning programming",
+      "userImage": "https://randomuser.me/api/portraits/men/21.jpg",
+      "userName": "Fortunato Nobu",
+      "specific": "how to get better and start the programming...",
+      "like": 16,
+      "comment": 0,
+      "saved": 0,
+      "time": 6,
+      "date": "Thu Nov 21 2024",
+      "paragraphs": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero dolor tempora veniam perspiciatis possimus, laborum at, explicabo porro quam aut nostrum. Quod quos vitae quaerat non beatae sapiente culpa numquam? Culpa cum, dolor accusantium sed nostrum beatae, repellendus totam iusto quisquam facere eos facilis, libero distinctio. Incidunt et vel nam. Molestias doloribus exercitationem ad itaque placeat impedit id perspiciatis explicabo.Non culpa aperiam quia ducimus recusandae reprehenderit, nulla placeat iure minima error nobis adipisci cumque et praesentium, officia illum quo veniam minus voluptatum. Provident molestiae facere, expedita illum sunt similique. Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero dolor tempora veniam perspiciatis possimus, laborum at, explicabo porro quam aut nostrum. Quod quos vitae quaerat non beatae sapiente culpa numquam? Culpa cum, dolor accusantium sed nostrum beatae, repellendus totam iusto quisquam facere eos facilis, libero distinctio. Incidunt et vel nam. Molestias doloribus exercitationem ad itaque placeat impedit id perspiciatis explicabo.Non culpa aperiam quia ducimus recusandae reprehenderit, nulla placeat iure minima error nobis adipisci cumque et praesentium, officia illum quo veniam minus voluptatum. Provident molestiae facere, expedita illum sunt similique. Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero dolor tempora veniam perspiciatis possimus, laborum at, explicabo porro quam aut nostrum. Quod quos vitae quaerat non beatae sapiente culpa numquam? Culpa cum, dolor accusantium sed nostrum beatae, repellendus totam iusto quisquam facere eos facilis, libero distinctio. Incidunt et vel nam. Molestias doloribus exercitationem ad itaque placeat impedit id perspiciatis explicabo.Non culpa aperiam quia ducimus recusandae reprehenderit, nulla placeat iure minima error nobis adipisci cumque et praesentium, officia illum quo veniam minus voluptatum. Provident molestiae facere, expedita illum sunt similique.",
+      "comments": [
+        {
+          "text": "that was so good"
+        },
+        {
+          "text": "it is so good"
+        },
+        {
+          "text": "hello"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Beginners guide to learning programming",
+      "userImage": "https://randomuser.me/api/portraits/men/20.jpg",
+      "userName": "Mariano Curro",
+      "specific": "how to get better and start the programming...",
+      "like": 0,
+      "comment": 0,
+      "saved": 0,
+      "time": 6,
+      "date": "Thu Nov 21 2024",
+      "paragraphs": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero dolor tempora veniam perspiciatis possimus, laborum at, explicabo porro quam aut nostrum. Quod quos vitae quaerat non beatae sapiente culpa numquam? Culpa cum, dolor accusantium sed nostrum beatae, repellendus totam iusto quisquam facere eos facilis, libero distinctio. Incidunt et vel nam. Molestias doloribus exercitationem ad itaque placeat impedit id perspiciatis explicabo.Non culpa aperiam quia ducimus recusandae reprehenderit, nulla placeat iure minima error nobis adipisci cumque et praesentium, officia illum quo veniam minus voluptatum. Provident molestiae facere, expedita illum sunt similique.",
+      "comments": [
+        {
+          "text": "that was so good"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Beginners guide to learning programming",
+      "userImage": "https://randomuser.me/api/portraits/men/26.jpg",
+      "userName": "Christian Édgar",
+      "specific": "how to get better and start the programming...",
+      "like": 0,
+      "comment": 0,
+      "saved": 0,
+      "time": 6,
+      "date": "Thu Nov 21 2024",
+      "paragraphs": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero dolor tempora veniam perspiciatis possimus, laborum at, explicabo porro quam aut nostrum. Quod quos vitae quaerat non beatae sapiente culpa numquam? Culpa cum, dolor accusantium sed nostrum beatae, repellendus totam iusto quisquam facere eos facilis, libero distinctio. Incidunt et vel nam. Molestias doloribus exercitationem ad itaque placeat impedit id perspiciatis explicabo.Non culpa aperiam quia ducimus recusandae reprehenderit, nulla placeat iure minima error nobis adipisci cumque et praesentium, officia illum quo veniam minus voluptatum. Provident molestiae facere, expedita illum sunt similique.",
+      "comments": [
+        {
+          "text": "that was so good"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Beginners guide to learning programming",
+      "userImage": "https://randomuser.me/api/portraits/men/1.jpg",
+      "userName": "Christian Édgar",
+      "specific": "how to get better and start the programming...",
+      "like": 0,
+      "comment": 0,
+      "saved": 0,
+      "time": 6,
+      "date": "Thu Nov 21 2024",
+      "paragraphs": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero dolor tempora veniam perspiciatis possimus, laborum at, explicabo porro quam aut nostrum. Quod quos vitae quaerat non beatae sapiente culpa numquam? Culpa cum, dolor accusantium sed nostrum beatae, repellendus totam iusto quisquam facere eos facilis, libero distinctio. Incidunt et vel nam. Molestias doloribus exercitationem ad itaque placeat impedit id perspiciatis explicabo.Non culpa aperiam quia ducimus recusandae reprehenderit, nulla placeat iure minima error nobis adipisci cumque et praesentium, officia illum quo veniam minus voluptatum. Provident molestiae facere, expedita illum sunt similique.",
+      "comments": [
+        {
+          "text": "that was so good"
+        },
+        {
+          "text": "i really love it!! <3"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Beginners guide to learning programming",
+      "userImage": "https://randomuser.me/api/portraits/men/52.jpg",
+      "userName": "Christian Édgar",
+      "specific": "how to get better and start the programming...",
+      "like": 0,
+      "comment": 0,
+      "saved": 0,
+      "time": 6,
+      "date": "Thu Nov 21 2024",
+      "paragraphs": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero dolor tempora veniam perspiciatis possimus, laborum at, explicabo porro quam aut nostrum. Quod quos vitae quaerat non beatae sapiente culpa numquam? Culpa cum, dolor accusantium sed nostrum beatae, repellendus totam iusto quisquam facere eos facilis, libero distinctio. Incidunt et vel nam. Molestias doloribus exercitationem ad itaque placeat impedit id perspiciatis explicabo.Non culpa aperiam quia ducimus recusandae reprehenderit, nulla placeat iure minima error nobis adipisci cumque et praesentium, officia illum quo veniam minus voluptatum. Provident molestiae facere, expedita illum sunt similique.",
+      "comments": [
+        {
+          "text": "that was so good"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "hello",
+      "userName": "marshia370@gmail.com",
+      "userImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbMC747Ll7OW84ElcrU_3PzOO9F-xmJ0fyDg&s",
+      "comment": 0,
+      "like": 1,
+      "saved": 0,
+      "comments": [
+        {
+          "text": "hello"
+        }
+      ],
+      "date": "Sat Nov 23 2024",
+      "paragraphs": "lorem ipsum",
+      "specific": "lorem ipsum",
+      "time": "5"
+    },
+    {
+      "id": "8",
+      "title": "hello",
+      "userName": "arshia",
+      "userImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbMC747Ll7OW84ElcrU_3PzOO9F-xmJ0fyDg&s",
+      "comment": 0,
+      "like": 1,
+      "saved": 0,
+      "comments": [
+        {
+          "text": "arshia"
+        }
+      ],
+      "date": "Sat Nov 23 2024",
+      "paragraphs": "hello",
+      "specific": "hello",
+      "time": "5"
+    },
+    {
+      "id": "9",
+      "title": "dawd",
+      "userName": "fdawda",
+      "userImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbMC747Ll7OW84ElcrU_3PzOO9F-xmJ0fyDg&s",
+      "comment": 0,
+      "like": 4,
+      "saved": 0,
+      "comments": [
+        {
+          "text": "dawda"
+        }
+      ],
+      "date": "Sat Nov 23 2024",
+      "paragraphs": "dawdawd",
+      "specific": "dawda",
+      "time": "2"
+    },
+    {
+      "id": "10",
+      "title": "Real estate",
+      "userName": "alireza",
+      "userImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbMC747Ll7OW84ElcrU_3PzOO9F-xmJ0fyDg&s",
+      "comment": 0,
+      "like": 36,
+      "saved": 0,
+      "comments": [
+        {
+          "text": "that so good"
+        }
+      ],
+      "date": "Sat Nov 23 2024",
+      "paragraphs": "dawdawdadwad",
+      "specific": "awdasdawdsadawdawda",
+      "time": "5"
+    }
+  ]
+}
