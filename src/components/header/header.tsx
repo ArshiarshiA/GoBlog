@@ -61,7 +61,7 @@ export default function Header() {
                         </li>
                         <li className="flex items-center gap-3 border-b border-b-gray-300 pb-3">
                             <TbUsersGroup />
-                            <Link href={'/about'}>About us</Link>
+                            <Link href={'/about'}>About Me</Link>
                         </li>
                         <li className="flex items-center gap-3 border-b border-b-gray-300 pb-3">
                             <LoginIcon hidden={false} />

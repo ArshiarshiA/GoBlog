@@ -7,7 +7,7 @@ import Poster from '../../../../public/storyYetB.svg'
 export default function About() {
     return (
         <section className="border-y my-5">
-            <div className="max-w-[1000px] m-auto py-10 flex justify-between items-center">
+            <div className="max-w-[1000px] m-auto py-3 flex justify-between items-center">
                 <div className="w-1/2">
                     <h1 className="text-4xl">ARSHIA MANSURY</h1>
                     <p className="text-xl text-gray-400">Front-end Developer</p>
