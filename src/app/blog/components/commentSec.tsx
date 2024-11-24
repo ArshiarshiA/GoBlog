@@ -1,10 +1,9 @@
 'use client'
 import axios from "axios"
-import { ChangeEvent, useEffect, useRef, useState } from "react"
+import { ChangeEvent, useState } from "react"
 
 export default function CommentSec({ id, comments }: { id: number, comments: { text: string }[] }) {
 
-    const commentPos = useRef<HTMLDivElement>(null)
     const [text, setText] = useState('')
 
     const catchComment = (e: ChangeEvent<HTMLInputElement>) => setText(e.target.value)
@@ -26,10 +25,6 @@ export default function CommentSec({ id, comments }: { id: number, comments: { t
             location.assign('/login')
         }
     }
-
-    useEffect(() => {
-        console.log(commentPos.current?.offsetTop)
-    } , [])
 
     return (
         <div>
